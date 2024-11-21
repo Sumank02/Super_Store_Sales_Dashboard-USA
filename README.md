@@ -1,6 +1,7 @@
 # Super_Store_Sales_Dashboard-USA
 
 __Project Overview__
+
 The Super Store Sales Dashboard provides an interactive and comprehensive view of sales performance for the Super Store. Built using Power BI, this dashboard empowers users to analyze and visualize key sales data across multiple dimensions, offering actionable insights into business operations and market trends.
 
 __Requirements__
