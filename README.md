@@ -23,4 +23,5 @@ __Usage Instructions__
 - Review the visualizations to identify patterns, trends, and opportunities for improvement.
 
 __Customization__
+
 The dashboard is designed to be flexible and adaptable. Users can, Add or modify metrics to better align with business objectives, Update data connections to reflect new data sources or formats and Customize visualizations to focus on specific areas of interest.
